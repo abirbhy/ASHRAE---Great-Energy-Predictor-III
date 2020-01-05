@@ -52,12 +52,28 @@ Provide a reliable and feasible Deep Neural Network algorithm to predict: How mu
 
 ## Data Understanding
 
+### Datasets Reading
+
+### Data Visualisation
+
 ## Data Preparation
+
+### Data Merging
+
+### Data Preprocessing
 
 ## Data Modeling
 
+### Data Shaping
+
+### Bulding Simple LSTM Network
+
+### Model Summary
+
 ## Results Analysis
 
-# Page de l'administrateur
+### Hyperparameters Choice
+
+### Final Results
 
 ![Screenshot](admiin.png)
