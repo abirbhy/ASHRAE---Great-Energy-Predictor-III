@@ -124,7 +124,7 @@ wind_speed - Meters per second
 
 Sample rows from combined dataframe
 
-![Screenshot](Annotation 2020-01-05 003236.jpg)
+![Screenshot](Annotation.jpg)
 
 ### Data Preprocessing
 
@@ -140,9 +140,39 @@ A lot of NaN's in some of columns ==> Change them into numerical values or drop 
 
 ### Data Shaping
 
+1- In order to run LSTM neural network data has to be in three dimentional shape where axis corresponds to following data:
+
+x-axis time steps
+
+y-axis data examples
+
+z-axis features for single point in time
+
+2- Take data for first 10 building_id's and preprocess them for LSTM neural network
+
+Dictionary 'extracted_df' contains data for buildings_ids in range (0, 10)
+
+==> Have to be reshaped in order to feed them 	into LSTM neural network
+
 ### Bulding Simple LSTM Network
 
+In order to create our LSTM model with tensorflow keras, we need to do these steps:
+
+1- Splitting data according to provided parameters
+
+2- Preparing data for three sets of data (train, dev, val) for every 'building_id'
+
+3- Standardizing features by removing mean and scaling according to variances
+
+4- Fitting to every data set with given 'building_id'
+
 ### Model Summary
+
+3 LSTM layers
+
+2 Dropout layers ==> Prevent the model overfitting
+
+Necessity of a Dense layer in the end
 
 ## Results Analysis
 
