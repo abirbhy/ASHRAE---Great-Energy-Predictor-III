@@ -168,14 +168,42 @@ In order to create our LSTM model with tensorflow keras, we need to do these ste
 
 ### Model Summary
 
-3 LSTM layers
+1- 3 LSTM layers
 
-2 Dropout layers ==> Prevent the model overfitting
+2- 2 Dropout layers ==> Prevent the model overfitting
 
-Necessity of a Dense layer in the end
+3- Necessity of a Dense layer in the end
+
+![Screenshot](Annotation1.jpg)
 
 ## Results Analysis
 
 ### Hyperparameters Choice
 
+1- 9 Model fitting epochs (because from the 10th epoch, the model starts to overfit)
+
+2- Adam optimizer (because it can handle sparse gradients and noisy problems)
+
+3- Mean Square Error loss (MSE)
+
+4- 500 epochs for each Fit
+
+![Screenshot](Annotation2.jpg)
+
 ### Final Results
+
+Final training loss value: 0.0352 < Final validation loss value: 0.0117
+
+Reason may be: Training loss is measured during each epoch while validation loss is measured after each epoch. ==> On average, the training loss is measured 1/2 an epoch earlier. If we shift the training loss curve a half epoch to the left, losses will align a bit better.
+
+![Screenshot](Annotation3.jpg)
+
+Abir Bel Haj Youssef
+
+Computer Science Engineering Student, ENSI
+
+Email: abir.belhajyoussef@ensi-uma.tn
+
+Phone: +216 93 189 062
+
+Linkedin: https://www.linkedin.com/in/abir-b/
