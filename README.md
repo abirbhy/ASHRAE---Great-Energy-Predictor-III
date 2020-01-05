@@ -122,7 +122,19 @@ wind_speed - Meters per second
 
 ### Data Merging
 
+Sample rows from combined dataframe
+
+![Screenshot](téléchargement3.png)
+
 ### Data Preprocessing
+
+1- Change the 'primary_use' column to categorical
+
+2- Check how many 'NaN' values has each column
+
+A lot of NaN's in some of columns ==> Change them into numerical values or drop them (‘floor_count’ and ‘year_built’) in order to use this data in neural network
+
+3- Check the description of train_df before Data Modeling
 
 ## Data Modeling
 
