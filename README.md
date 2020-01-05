@@ -198,6 +198,8 @@ Reason may be: Training loss is measured during each epoch while validation l
 
 ![Screenshot](Annotation3.jpg)
 
+# Thank you
+
 Abir Bel Haj Youssef
 
 Computer Science Engineering Student, ENSI
