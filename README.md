@@ -34,7 +34,7 @@ Key words : Deep Learning, Word Embedding, LSTM.
                        
    Numpy: to manipulate multidimensional matrices and mathematical functions.
 
-# Page d'accueil
+## Project Overview
 
 ![Screenshot](guii.png)
 
