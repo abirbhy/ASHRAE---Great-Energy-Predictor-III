@@ -102,6 +102,8 @@ wind_speed - Meters per second
 
 ### Data Visualisation
 
+![Screenshot](téléchargement.png)
+
 ## Data Preparation
 
 ### Data Merging
@@ -121,5 +123,3 @@ wind_speed - Meters per second
 ### Hyperparameters Choice
 
 ### Final Results
-
-![Screenshot](admiin.png)
