@@ -4,18 +4,6 @@ Energy prediction system based on Deep Learning :
 
 Key words : Deep Learning, Word Embedding, LSTM.
 
-# Plan
-
-1-	Project Overview
-
-2-	Data Understanding
-
-3-	Data Preparation
-
-4-	Data Modeling
-
-5- Results Analysis
-
 # Software environment
 
 1- The interpreted programming language: Python.
@@ -33,10 +21,28 @@ Key words : Deep Learning, Word Embedding, LSTM.
    Pandas: for data manipulation and analysis.
                        
    Numpy: to manipulate multidimensional matrices and mathematical functions.
+   
+# Plan
+
+1-	Project Overview
+
+2-	Data Understanding
+
+3-	Data Preparation
+
+4-	Data Modeling
+
+5- Results Analysis
 
 ## Project Overview
 
-![Screenshot](guii.png)
+## Data Understanding
+
+## Data Preparation
+
+## Data Modeling
+
+## Results Analysis
 
 # Page de l'administrateur
 
