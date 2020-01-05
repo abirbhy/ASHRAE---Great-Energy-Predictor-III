@@ -14,15 +14,15 @@ Key words : Deep Learning, Word Embedding, LSTM.
 
 4-	Data Modeling
 
-5-  Results Analysis
+5- Results Analysis
 
 # Software environment
 
--The interpreted programming language: Python.
+1- The interpreted programming language: Python.
 
--The free cloud service offered by Google: Google Colab
+2- The free cloud service offered by Google: Google Colab
 
--The Python libraries:
+3- The Python libraries:
 
    Keras with backend TensorFlow.
 
