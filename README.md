@@ -124,7 +124,7 @@ wind_speed - Meters per second
 
 Sample rows from combined dataframe
 
-![Screenshot](téléchargement3.png)
+![Screenshot](Annotation 2020-01-05 003236.jpg)
 
 ### Data Preprocessing
 
