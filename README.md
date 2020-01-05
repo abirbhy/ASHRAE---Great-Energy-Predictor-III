@@ -16,17 +16,13 @@ Key words : Deep Learning, Word Embedding, LSTM.
 
 5-  Results Analysis
 
-# Environnement logiciel
+# Software environment
 
--Le langage de programmation interprété : Python.
+-The interpreted programming language: Python.
 
--L'environnement de développement libre pour Python : Spyder.
+-The free cloud service offered by Google: Google Colab
 
--La bibliothèque de Python : Keras avec backend TensorFlow.
-
--L'utilitaire graphique de création d'interfaces permettant de générer le code Python d'interfaces graphiques : QtDesigner.
-
--Le service de cloud computing : Amazon Web Services (AWS).
+-The Python libraries: Keras with TensorFlow backend.
 
 # Page d'accueil
 
