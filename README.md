@@ -1,17 +1,20 @@
 # ASHRAE---Great-Energy-Predictor-III
 How much energy will a building consume?
 Energy prediction system based on Deep Learning :
+
 Key words : Deep Learning, Word Embedding, LSTM.
 
-# Description
+# Plan
 
-1-	Représentation vectorielle de la requête et du document en se basant sur Contex2Vec et fastText.
+1-	Project Overview
 
-2-	Normalisation de la représentation  en se basant sur un réseau récurent LSTM.
+2-	Data Understanding
 
-3-	Appariement  requête-document basé sur le « Learn to Rank ».
+3-	Data Preparation
 
-4-	Evaluation et comparaison de l’approche.
+4-	Data Modeling
+
+5-  Results Analysis
 
 # Environnement logiciel
 
