@@ -36,6 +36,20 @@ Key words : Deep Learning, Word Embedding, LSTM.
 
 ## Project Overview
 
+### Overview
+
+It costs a lot to cool a skyscraper in the summer and not just in dollars, but in environmental impact. Thankfully, significant investments are being made to improve building efficiencies to reduce costs and emissions.
+==> Develop accurate predictions of metered building energy usage in the following areas: chilled water, electric, natural gas, hot water, and steam meters. The data comes from over 1,000 buildings over a three-year timeframe.
+
+### Introduction
+
+As the impact of climate change is being felt more increasingly, organizations are looking for ways to lower their energy footprint. Highest energy users are defined as those with the highest energy consumption as determined by their energy meter readings.
+==> Prioritize resources to provide the greatest impact, ultimately resulting in reduced energy consumption and a more environmentally friendly solution.
+
+### Objective
+
+Provide a reliable and feasible Deep Neural Network algorithm to predict: How much energy will a building consume?
+
 ## Data Understanding
 
 ## Data Preparation
