@@ -23,6 +23,10 @@ Key words : Deep Learning, Word Embedding, LSTM.
 -The free cloud service offered by Google: Google Colab
 
 -The Python libraries: Keras with TensorFlow backend.
+                       Matplotlib: to plot and visualize data in the form of graphs.
+                       Seaborn: for data visualization based on matplotlib.
+                       Pandas: for data manipulation and analysis.
+                       Numpy: to manipulate multidimensional matrices and mathematical functions.
 
 # Page d'accueil
 
