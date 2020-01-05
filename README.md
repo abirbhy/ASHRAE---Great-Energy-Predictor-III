@@ -102,7 +102,21 @@ wind_speed - Meters per second
 
 ### Data Visualisation
 
+1- building_meta_df['primary_use‘]
+
 ![Screenshot](téléchargement.png)
+
+2- train_df[‘site_id']
+
+![Screenshot](téléchargement(4).png)
+
+3- train_df['meter_reading']
+
+![Screenshot](téléchargement(1).png)
+
+4- Correlation between train_df['meter_reading'] and other variables
+
+![Screenshot](téléchargement(3).png)
 
 ## Data Preparation
 
