@@ -199,13 +199,3 @@ Reason may be: Training loss is measured during each epoch while validation l
 ![Screenshot](Annotation3.jpg)
 
 # Thank you
-
-Abir Bel Haj Youssef
-
-Computer Science Engineering Student, ENSI
-
-Email: abir.belhajyoussef@ensi-uma.tn
-
-Phone: +216 93 189 062
-
-Linkedin: https://www.linkedin.com/in/abir-b/
